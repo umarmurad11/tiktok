@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
+$host = "tiktokmysql.mysql.database.azure.com";
 $db_name = "t";
-$username = "root";
-$password = "";
+$username = "usman";
+$password = "Ritesh@123";
 
 $conn = new mysqli($host, $username, $password, $db_name);
 
