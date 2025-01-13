@@ -210,7 +210,6 @@ $user_id = $_SESSION['user_id'];
             <div class="brand">
                 <img src="images.png" alt="Logo">
                 <h1>Welcome to the Video App</h1>
-                <p>Your personalized video sharing platform</p>
             </div>
             <a href="logout.php" class="btn logout-btn">Logout</a>
         </div>
